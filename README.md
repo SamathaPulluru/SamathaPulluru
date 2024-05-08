@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamathaPulluru.
-- 👀 I’m interested in coding, cricket and biology.
+- 👀 I’m interested in coding, cricket, chess and biology.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on my projects and improve them.
 - 😄 Pronouns: she/her
